@@ -1,0 +1,18 @@
+java -cp "C:\Users\kumar\Desktop\trail\DBMSproject\src\postgresql-42.5.0.jar;C:\Users\kumar\Desktop\trail\DBMSproject\src" ServiceModule
+
+
+javac ServiceModule.java
+
+
+
+java -cp "C:\Users\kumar\Desktop\trail\DBMSproject\src\postgresql-42.5.0.jar;C:\Users\kumar\Desktop\trail\DBMSproject\src" admin
+
+
+javac admin.java
+
+
+javac invokeWorkers.java
+
+javac client.java
+
+java client
